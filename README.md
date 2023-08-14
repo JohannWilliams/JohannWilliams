@@ -1,9 +1,11 @@
-### Hi there 👋
+<h2 align=center>Hi there. I'm Johann</h2>
 
-My name is Johann E. Williams. I graduated in December of 2022 with a BS in Computer Science from St. Edwards University. I have a love for solving difficult problems, and a passion for learning new things. There are many things that I find interesting, like AI, Game Development, and Embedded Systems, but at the end of the day coding and testing is at the heart of what I love. I just want to be able to use the skills that I have developed, and will develop, to help a project grow and thrive so it can bring joy, security, and reliability to it's users. 
+
+I graduated in December of 2022 with a BS in Computer Science from St. Edwards University. I have a love for solving difficult problems, and a passion for learning new things. There are many things that I find interesting, like AI, Game Development, and Embedded Systems, but at the end of the day coding and testing is at the heart of what I love. I just want to be able to use the skills that I have developed, and will develop, to help a project grow and thrive so it can bring joy, security, and reliability to it's users. 
 
 ---
-
+<div align=center>
+  
 ## Skills/Languages
 #### Front-End
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,php,nodejs)](https://skillicons.dev)
@@ -22,10 +24,11 @@ My name is Johann E. Williams. I graduated in December of 2022 with a BS in Comp
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,blender,unreal,unity)](https://skillicons.dev)
 #### Other Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,eclipse,atom,powershell)](https://skillicons.dev)
+</div>
 
 ---
 
-- 📫 How to reach me:
+##### Contact Me:
   - [Linkedin][1] or
   - johann.williams01@gmail.com
   
