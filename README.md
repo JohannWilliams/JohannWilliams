@@ -1,20 +1,27 @@
 ### Hi there 👋
 
-#### Who I am
 My name is Johann E. Williams. I graduated in December of 2022 with a BS in Computer Science from St. Edwards University. I have a love for solving difficult problems, and a passion for learning new things. There are many things that I find interesting, like AI, Game Development, and Embedded Systems, but at the end of the day coding and testing is at the heart of what I love. I just want to be able to use the skills that I have developed, and will develop, to help a project grow and thrive so it can bring joy, security, and reliability to it's users. 
 
-- 🌱 I’m currently learning SpringBoot.
 ---
 
-### Skills/Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,php,nodejs,spring)](https://skillicons.dev)
+## Skills/Languages
+#### Front-End
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,php,nodejs)](https://skillicons.dev)
+#### Back-End
+[![My Skills](https://skillicons.dev/icons?i=spring,py,java,nginx,mysql,mongodb)](https://skillicons.dev)
+#### Game/Simulation
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,swift)](https://skillicons.dev)
+#### Other Langauges
+[![My Skills](https://skillicons.dev/icons?i=c,r)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,java,swift)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=maven,nginx,mysql,mongodb)](https://skillicons.dev)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=postman,selenium,git,github,idea,vscode,visualstudio,eclipse,blender,unreal,unity)](https://skillicons.dev)
+## Tools
+#### Web/API Design and Development
+[![My Skills](https://skillicons.dev/icons?i=postman,selenium,maven,idea,vscode)](https://skillicons.dev)
+#### Game/Simulation
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,blender,unreal,unity)](https://skillicons.dev)
+#### Other Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,eclipse,atom,powershell)](https://skillicons.dev)
 
 ---
 
@@ -23,7 +30,6 @@ My name is Johann E. Williams. I graduated in December of 2022 with a BS in Comp
   - johann.williams01@gmail.com
   
 [1]: https://www.linkedin.com/in/johannwilliams/
-[2]: https://github.com/Williams-Weather-Map-Project/codup-weather-map
 
 
 <!--
