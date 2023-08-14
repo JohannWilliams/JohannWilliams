@@ -1,7 +1,7 @@
 <h2 align=center>Hi there. I'm Johann</h2>
 
 
-I graduated in December of 2022 with a BS in Computer Science from St. Edwards University. I have a love for solving difficult problems, and a passion for learning new things. There are many things that I find interesting, like AI, Game Development, and Embedded Systems, but at the end of the day coding and testing is at the heart of what I love. I just want to be able to use the skills that I have developed, and will develop, to help a project grow and thrive so it can bring joy, security, and reliability to it's users. 
+Professional Software Developer and Air Force Veteran with military experience in cultivating teams, managing projects and resources, and finding solutions to complex challenges, with a B.S. in Computer Science. Developing and implementing Software Engineering skills to provide reliable, secure, and meaningful solutions to aid in the development and growth of software applications. 
 
 ---
 <div align=center>
